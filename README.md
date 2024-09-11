@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeaMohlala
-- 👀 I’m interested in Software Engineering 
+- 👀 I’m interested in Front End Software Developement 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Python and C# programming
 - 💞️ I’m looking to collaborate on small web developement projects
 - 📫 How to reach me keamogetsemhll@gmail.com
